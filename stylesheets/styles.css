@@ -1,0 +1,134 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: Nunito;
+  }
+  
+  h1 {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .main {
+    display: block;
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 1em;
+    position: relative;
+  }
+  
+  .inner {
+    margin: 0 auto;
+    width: 500px;
+    position: relative;
+  }
+  
+  label.radio {
+    display: block;
+  }
+  
+  .radio-inline {
+    display: inline-block;
+  }
+  
+  /* change below to an more appropriate class name */
+  .pictures {
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: center;
+  }
+  
+  /* HIDE RADIO */
+  .pictures [type=radio] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* IMAGE STYLES */
+  .pictures [type=radio]+img {
+    cursor: pointer;
+  }
+  
+  /* CHECKED STYLES */
+  .pictures [type=radio]:checked+img {
+    outline: 4px solid #41d4b0;
+    transform: scale(0.9);
+    box-shadow: 0 0 5px #333;
+    z-index: -1;
+  }
+  
+  #done {
+    font-family: Nunito;
+    width: 350px;
+    padding: 20px;
+    background: #41d4b0;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid;
+    color: #fff;
+    margin: 10px 0px;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  
+  #done:hover {
+    background: #35b494;
+  }
+  
+  #reset {
+    font-family: Nunito;
+    width: 350px;
+    padding: 20px;
+    background: #41d4b0;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid;
+    color: #fff;
+    margin: 10px 0px;
+    cursor: pointer;
+    border-radius: 25px;
+  }
+  
+  #reset:hover {
+    background: #35b494;
+  }
+  
+  .gone {
+    display: none !important;
+  }
+  
+  .feedback {
+    font-family: Nunito;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: #ffffff;
+    margin: 0;
+    text-align: center;
+    font-size: 35px;
+    padding-top: 50px;
+  }
+  
+  .feedback img {
+    display: block;
+    margin: 50px auto;
+    max-width: 800px
+  }
+  
+  label {
+    border: 1px solid #fff;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  label img {
+    height: 175px;
+    width: 175px;
+    transition-duration: 0.2s;
+    transform-origin: 50% 50%;
+  }
