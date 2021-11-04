@@ -1,0 +1,115 @@
+<!-- TODO: Delete all commented code that is of no use, Code that is commented is there for reference -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snack Quiz</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../stylesheets/styles.css">
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-firestore.js"></script>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito" />
+</head>
+
+<body>
+  <div class="fixed">
+    <a class="btn btn-primary" href="/index.html" id="reset" role="button">Back to main menu</a>
+    <div class="buttons reset">
+      <button type="reset" onclick="document.location.reload()" id="reset">Reset</button>
+    </div>
+  </div>
+
+  <header>
+    <div class="logo">
+      <h1>Quiz Central</h1>
+    </div>
+  </header>
+  <header class="header2">
+    <h2>Find out which snack you are</h2>
+  </header>
+
+  <form class="main">
+    <div class="inner">
+      <h2>Your Favorite color is</h2>
+      <p id="question-1" class="question">
+        <label class="radio"><input type="radio" name="question-1" value="marshmallow" required> Pink</label>
+        <label class="radio"><input type="radio" name="question-1" value="pretzel"> Golden Brown</label>
+        <label class="radio"><input type="radio" name="question-1" value="ice-cream"> I like all colors</label>
+      </p>
+      <h2>You like to keep things</h2>
+      <p id="question-2" class="question">
+        <label class="radio"><input type="radio" name="question-2" value="ice-cream" required> Cold and
+          Calculated</label>
+        <label class="radio"><input type="radio" name="question-2" value="pretzel"> Complicated</label>
+        <label class="radio"><input type="radio" name="question-2" value="marshmallow"> Sticky</label>
+      </p>
+      <h2>Your favorite drink is</h2>
+      <p id="question-3" class="question">
+        <label class="radio"><input type="radio" name="question-3" value="marshmallow" required> Hot Chocolate</label>
+        <label class="radio"><input type="radio" name="question-3" value="ice-cream"> Milkshake</label>
+        <label class="radio"><input type="radio" name="question-3" value="pretzel"> Beer</label>
+      </p>
+      <h2>Your preferable hangout is</h2>
+      <p id="question-4" class="question">
+        <label class="radio"><input type="radio" name="question-4" value="marshmallow" required> Camping next to a
+          fire</label>
+        <label class="radio"><input type="radio" name="question-4" value="pretzel"> Grabing a drink at a nice
+          bar</label>
+        <label class="radio"><input type="radio" name="question-4" value="ice-cream"> Going to the beach</label>
+      </p>
+
+      <h2>Pick an image</h2>
+      <div class="pictures question">
+        <label class="radio-inline"><input type="radio" name="question-5" value="marshmallow" required><img
+            src="https://picsum.photos/seed/1/100" /></label>
+        <label class="radio-inline"><input type="radio" name="question-5" value="pretzel"><img
+            src="https://picsum.photos/seed/1/100" /></label>
+        <label class="radio-inline"><input type="radio" name="question-5" value="ice-cream"><img
+            src="https://picsum.photos/seed/1/100" /></label>
+      </div>
+
+      <div class="done">
+        <button type="submit" id="done">What am I?</button>
+      </div>
+    </div>
+    <div class="feedback gone">
+      <div id="feedback-1" class="gone" data-result="marshmallow">
+        <h3 id="result">Your result is...</h3>
+        You're a marshmallow!
+        <img src="https://cdn.newsapi.com.au/image/v1/6af90d0f06b9b24bc7571331c1cc1293?width=650" />
+      </div>
+      <div id="feedback-2" class="gone" data-result="pretzel">
+        <h3 id="result">Your result is...</h3>
+        You're a pretzel!
+        <img src="https://acozykitchen.com/wp-content/uploads/2013/02/IMG_6950.jpg" />
+      </div>
+      <div id="feedback-3" class="gone" data-result="ice-cream">
+        <h3 id="result">Your result is...</h3>
+        You're ice-cream!
+        <img src="https://d1w9csuen3k837.cloudfront.net/Pictures/1280x720/4/0/8/132408_shutterstock_406445776.jpg" />
+      </div>
+    </div>
+  </form>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+  <script src="../scripts/results.js" charset="utf-8"></script>
+  <script src="../scripts/firebaseconfig.js" charset="utf-8"></script>
+  <script src="../scripts/firebasedatastore.js" charset="utf-8"></script>
+  <script src="../scripts/main.js" charset="utf-8"></script>
+
+  <!-- <div class="result">
+      <h3 id="result">Your result is...</h3>
+    </div> -->
+  <footer>
+    <h6>Quiz Central created by: [INSERT NAMES HERE]</h6>
+  </footer>
+</body>
+
+</html>
