@@ -1,0 +1,112 @@
+<!-- TODO: Delete all commented code that is of no use, Code that is commented is there for reference -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Squidgame Shape Quiz</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../stylesheets/styles.css">
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-firestore.js"></script>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito" />
+</head>
+
+<body>
+  <div class="fixed">
+    <a class="btn btn-primary" href="/index.html" id="reset" role="button">Back to main menu</a>
+    <div class="buttons reset">
+      <button type="reset" onclick="document.location.reload()" id="reset">Reset</button>
+    </div>
+  </div>
+
+  <header>
+    <div class="logo">
+      <h1>Quiz Central</h1>
+    </div>
+  </header>
+  <header class="header2">
+    <h2>Find out which squid game shape you are (◯, △, ▢)</h2>
+  </header>
+
+  <form class="main">
+    <div class="inner">
+      <h2>Your Favorite number is</h2>
+      <p id="question-1" class="question">
+        <label class="radio"><input type="radio" name="question-1" value="marshmallow" required> 0</label>
+        <label class="radio"><input type="radio" name="question-1" value="pretzel"> 3</label>
+        <label class="radio"><input type="radio" name="question-1" value="ice-cream"> 4</label>
+      </p>
+      <h2>You like to manage...</h2>
+      <p id="question-2" class="question">
+        <label class="radio"><input type="radio" name="question-2" value="ice-cream" required> Everything</label>
+        <label class="radio"><input type="radio" name="question-2" value="pretzel"> Yourself, OR Others</label>
+        <label class="radio"><input type="radio" name="question-2" value="marshmallow"> Absolutely nothing</label>
+      </p>
+      <h2>Your favorite sufrace texture is</h2>
+      <p id="question-3" class="question">
+        <label class="radio"><input type="radio" name="question-3" value="marshmallow" required> Spiky</label>
+        <label class="radio"><input type="radio" name="question-3" value="ice-cream"> Smooth</label>
+        <label class="radio"><input type="radio" name="question-3" value="pretzel"> Edgy</label>
+      </p>
+      <h2>You always</h2>
+      <p id="question-4" class="question">
+        <label class="radio"><input type="radio" name="question-4" value="marshmallow" required> Make sure everyone gets a fair chance in board games</label>
+        <label class="radio"><input type="radio" name="question-4" value="pretzel"> Want to be the dealer in blackjack</label>
+        <label class="radio"><input type="radio" name="question-4" value="ice-cream"> Make everyone informed of the rules before playing a game</label>
+      </p>
+
+      <h2>Pick an image</h2>
+      <div class="pictures question">
+        <label class="radio-inline"><input type="radio" name="question-5" value="Circle Cookie" required><img
+            src="https://aphrodite.gmanetwork.com/imagefiles/800/1633407540_832920763_10_ent.jpg" /></label>
+        <label class="radio-inline"><input type="radio" name="question-5" value="Umbrella Cookie"><img
+            src="https://media1.popsugar-assets.com/files/thumbor/bRfJtrAmkfY0e_fp31CInpGbsyg/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2021/10/19/799/n/1922195/2b9e1aee616f0a356a90d1.05247388_/i/squid-game-dalgona-challenge-cookie-cutters-on-etsy.jpg" /></label>
+        <label class="radio-inline"><input type="radio" name="question-5" value="ice-cream"><img
+            src="https://static.parade.com/wp-content/uploads/2021/10/02D33ACB-BB4A-4132-B946-D907FDB41A7F-2-e1634077710554.jpeg" /></label>
+      </div>
+
+      <div class="done">
+        <button type="submit" id="done">What am I?</button>
+      </div>
+    </div>
+    <div class="feedback gone">
+      <div id="feedback-1" class="gone" data-result="Circle">
+        <h3 id="result">Your result is...</h3>
+        You're a marshmallow!
+        <img src="https://dp57v9mrmcue2.cloudfront.net/wp-content/uploads/2019/08/IMG_6679-492x512.jpeg" />
+      </div>
+      <div id="feedback-2" class="gone" data-result="Square">
+        <h3 id="result">Your result is...</h3>
+        You're a pretzel!
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Square_-_black_simple.svg/1200px-Square_-_black_simple.svg.pngg" />
+      </div>
+      <div id="feedback-3" class="gone" data-result="Triangle">
+        <h3 id="result">Your result is...</h3>
+        You're ice-cream!
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Regular_triangle.svg/2048px-Regular_triangle.svg.png" />
+      </div>
+    </div>
+  </form>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+  <script src="../scripts/results.js" charset="utf-8"></script>
+  <script src="../scripts/firebaseconfig.js" charset="utf-8"></script>
+  <script src="../scripts/firebasedatastore.js" charset="utf-8"></script>
+  <script src="../scripts/main.js" charset="utf-8"></script>
+
+  <!-- <div class="result">
+      <h3 id="result">Your result is...</h3>
+    </div> -->
+  <footer>
+    <h6>Quiz Central created by: [INSERT NAMES HERE]</h6>
+  </footer>
+</body>
+
+</html>
