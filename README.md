@@ -66,17 +66,23 @@ total of 30 points:
 -
 
 # Overall Project Experience - Brian
+ 
+> At the very start of forming the team, we decided to reference the grading rubric and structure our goals closely to the outlined factors.
 
- 
-  
- 
-> Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a total of 30 points: 
-1) Quality of presentation (including equal participation by all team members)
-2) Quality of documentation for installing, configuring, and using the application
-3) Project scope and functionality
-4) Code quality
-5) Innovation and web design
-6) Teamwork
+
+Goals going into the project | Effort | Goal Met? 
+---------------------------- | ------ | ---------
+Well-prepared Presentation and equal participation | Good | Yes
+Comprehensive & quality Documentation | Good | Yes
+Project scope functionality - Application of course concepts and technology | Fair | Yes
+Code Quality | Good | Yes
+Innovation & Web Design | Decent | Yes, but maybe still room for improvement
+Teamwork & Effective Team Communication | Good | Yes
+
+
+> In the end, we made Quiz Central.
+> 
+> - A Web Application that can lighten the mood with some silly quizzes, which also proved to be a useful team collaboration exercise within Front End Engineering.
 
 
 ------------------------------------
@@ -88,7 +94,9 @@ total of 30 points:
 ┃┃╱┃┃┃┃┣╋━━┃┃┃┃╱╭┫┃━┫╭╮┫┃┃╭┫╭╮┃┃
 ┃╰━╯┃╰╯┃┃┃━━┫┃╰━╯┃┃━┫┃┃┃╰┫┃┃╭╮┃╰╮
 ╰━━╮┣━━┻┻━━━╯╰━━━┻━━┻╯╰┻━┻╯╰╯╰┻━╯
-╱╱╱╰╯
+╱╱╱╰╯///////\///////////\////
+
+
 
 #####  *User Manual* -- *Documentation*
 
