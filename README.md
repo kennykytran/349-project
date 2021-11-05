@@ -145,9 +145,9 @@ Innovation & Web Design | Decent | Yes, but maybe still room for improvement
 Teamwork & Effective Team Communication | Good | Yes
 
 
-> In the end, we made Quiz Central.
-> 
-> - A Web Application that can lighten the mood with some silly quizzes, which also proved to be a useful team collaboration exercise within Front End Engineering.
+#### *In the end, we made Quiz Central.* 
+
+- A Web Application that can lighten the mood with some silly quizzes, which also proved to be a useful team collaboration exercise within Front End Engineering.
 
 
 ------------------------------------
