@@ -18,6 +18,7 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 ## Contents:
 
+**Main Project**
  1. [Introduction & Summary - Brian](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#introduction--summary---brian)
  2. [Styling Quiz Central - Kenny](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#styling-the-quiz-central-app--kenny)
  3. [Engineering the results.js and quiz logic - Kenny](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#engineering-the-resultsjs-and-quiz-logic---kenny)
@@ -28,14 +29,13 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
  8. [Overall Project Experience - Brian](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#overall-project-experience---brian)
 
 
-### User Manual -- *Documentation*:
+**User Manual** -- *Documentation*:
  - [Installation](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#installing-quiz-central)
  - [Configuration](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#configuring-quiz-central)
  - [Using the Application](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#using-quiz-cenrtal)
 
 
 # Introduction & Summary - Brian
-
 ```
 What is it?
 
