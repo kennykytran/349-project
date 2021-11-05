@@ -1,9 +1,9 @@
 ### 349-project
 
 ```cpp
-# PROJECT TEAM NAME: Vanilla
+PROJECT TEAM NAME: Vanilla
 
-# MEMBERS:
+MEMBERS:
   1. Kenny Tran
   2. Kevin Espinoza
   3. Brian Lucero
