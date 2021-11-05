@@ -59,9 +59,12 @@ What is it?
 ```
 Why this idea?
 
--- The Quiz Central concept was incepted by Kenny and Kevin mainly, in efforts to finally just decide on *something* to start working on, and give it our best shot. At the time, it seemed most suitable and relatively simple to develop quickly.
-
+-- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
+in efforts to finally just decide on *something* to start working on, 
+and give it our best shot. At the time, it seemed most suitable and 
+relatively simple to develop quickly.
 ```
+
 
 ```
 How is the user experience?
