@@ -1,11 +1,38 @@
 ### 349-project
 
-░██████╗░██╗░░░██╗██╗███████╗  ░█████╗░███████╗███╗░░██╗████████╗██████╗░░█████╗░██╗░░░░░
-██╔═══██╗██║░░░██║██║╚════██║  ██╔══██╗██╔════╝████╗░██║╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░
-██║██╗██║██║░░░██║██║░░███╔═╝  ██║░░╚═╝█████╗░░██╔██╗██║░░░██║░░░██████╔╝███████║██║░░░░░
-╚██████╔╝██║░░░██║██║██╔══╝░░  ██║░░██╗██╔══╝░░██║╚████║░░░██║░░░██╔══██╗██╔══██║██║░░░░░
-░╚═██╔═╝░╚██████╔╝██║███████╗  ╚█████╔╝███████╗██║░╚███║░░░██║░░░██║░░██║██║░░██║███████╗
-░░░╚═╝░░░░╚═════╝░╚═╝╚══════╝  ░╚════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
+#### *Grading Rubric Factors:*
+
+```
+Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a
+total of 30 points:
+1) Quality of presentation (including equal participation by all team members)
+2) Quality of documentation for installing, configuring, and using the application
+3) Project scope and functionality
+4) Code quality
+5) Innovation and web design
+6) Teamwork
+```
+
+---------------------------------------
+
+
+
+
+                                                         +---------------------------------------+
+                                                         |                                       |
+                                                         |   ┏━━━┓╋╋╋╋╋╋╋╋┏━━━┓╋╋╋╋╋┏┓╋╋╋╋╋┏┓    |
+                                                         |   ┃┏━┓┃╋╋╋╋╋╋╋╋┃┏━┓┃╋╋╋╋┏┛┗┓╋╋╋╋┃┃    |
+                                                         |   ┃┃╋┃┣┓┏┳┳━━━┓┃┃╋┗╋━━┳━╋┓┏╋━┳━━┫┃    |
+                                                         |   ┃┃╋┃┃┃┃┣╋━━┃┃┃┃╋┏┫┃━┫┏┓┫┃┃┏┫┏┓┃┃    |
+                                                         |   ┃┗━┛┃┗┛┃┃┃━━┫┃┗━┛┃┃━┫┃┃┃┗┫┃┃┏┓┃┗┓   |
+                                                         |   ┗━━┓┣━━┻┻━━━┛┗━━━┻━━┻┛┗┻━┻┛┗┛┗┻━┛   |
+                                                         |   ╋╋╋┗┛                               |
+                                                         |                                       |
+                                                         +---------------------------------------+
+                                                         
+                                                         
+                                                         
+# QUIZ CENTRAL                                                    
 
 ## Contents:
 
@@ -26,8 +53,7 @@
 
 
 # Introduction & Summary - Brian
-> `What` -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
->  1. 
+`What` -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
 
 
 ## Styling the Quiz Central App- Kenny
@@ -112,19 +138,6 @@ Teamwork & Effective Team Communication | Good | Yes
 
 `If you are confused...`
 
--
--
--
-
-#### *Grading Rubric Factors:*
-
-```
-Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a
-total of 30 points:
-1) Quality of presentation (including equal participation by all team members)
-2) Quality of documentation for installing, configuring, and using the application
-3) Project scope and functionality
-4) Code quality
-5) Innovation and web design
-6) Teamwork
-```
+- Click on the following URL: [Quiz Central :)](https://personality-quiz-projec.web.app/index.html)
+- After the Home page loads, choose a quiz to play by clicking on it
+- Answer the questions, submit, and await your shocking results
