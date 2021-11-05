@@ -15,6 +15,15 @@ total of 30 points:
 
 ## Contents:
 
+ 1. Summary
+ 2. Styling Quiz Central - kenny
+ 3. Engineering the results.js and quiz logic - kenny
+ 4. Connecting Quiz Central to Firestore - Kevin
+ 5. Hosting the app on Google Firebase - Kevin
+ 6. Developing the quizzes - Brian & Andres
+ 7. Brief demonstration - Kenny
+ 8. Quiz Central - Brian
+
 ### Documentation:
  - [Installation](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#installing-quiz-central)
 
