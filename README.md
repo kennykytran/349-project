@@ -25,7 +25,7 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
  4. [Connecting Quiz Central to a Firestore Database - Kevin](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#connecting-to-a-firestore-database---kevin)
  5. [Hosting the app on Google Firebase - Kevin](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#hosting-the-app-on-google-firebase---kevin)
  6. [Designing & Developing the quizzes - Brian & Andres](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#designing--developing-the-quizzes---brian--andres)
- 7. [Brief demonstration - Kenny](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#brief-demonstration---kenny)
+ 7. [Brief demonstration - Kevin](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#brief-demonstration---kevin)
  8. [Overall Project Experience - Brian](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#overall-project-experience---brian)
 
 
@@ -130,7 +130,7 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 ```
 
-# Brief demonstration - Kenny
+# Brief demonstration - Kevin
 
 
 #### [Quiz Central](https://personality-quiz-projec.web.app/index.html)
