@@ -1,0 +1,118 @@
+<!-- TODO: Delete all commented code that is of no use, Code that is commented is there for reference -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+           background-image: url("https://images.unsplash.com/photo-1457364887197-9150188c107b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+        }
+     </style>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Star Wars Character Quiz</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../stylesheets/styles.css">
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.24.0/firebase-firestore.js"></script>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito" />
+</head>
+
+<body>
+  <div class="fixed">
+    <a class="btn btn-primary" href="/index.html" id="reset" role="button">Back to main menu</a>
+    <div class="buttons reset">
+      <button type="reset" onclick="document.location.reload()" id="reset">Reset</button>
+    </div>
+  </div>
+
+  <header>
+    <div class="logo">
+      <h1>Quiz Central</h1>
+    </div>
+  </header>
+  <header class="header2">
+    <h2>Find out which Star Wars Character You Are</h2>
+  </header>
+
+  <form class="main">
+    <div class="inner">
+      <h2> Your Favorite Faction is</h2>
+      <p id="question-1" class="question">
+        <label class="radio"><input type="radio" name="question-1" value="Obi wan" required> The jedi order</label>
+        <label class="radio"><input type="radio" name="question-1" value="Darth Vader"> The sith</label>
+        <label class="radio"><input type="radio" name="question-1" value="Anakin"> The rebel army</label>
+      </p>
+      <h2> You Prefer To...</h2>
+      <p id="question-2" class="question">
+        <label class="radio"><input type="radio" name="question-2" value="Darth Vader" required> Work by yourself</label>
+        <label class="radio"><input type="radio" name="question-2" value="Obi wan"> Work in a team</label>
+        <label class="radio"><input type="radio" name="question-2" value="Anakin"> No preferance</label>
+      </p>
+      <h2> You follow orders...</h2>
+      <p id="question-3" class="question">
+        <label class="radio"><input type="radio" name="question-3" value="Obi wan" required> All the time</label>
+        <label class="radio"><input type="radio" name="question-3" value="Darth Vader"> Never</label>
+        <label class="radio"><input type="radio" name="question-3" value="Obi Wan"> Only if they are morally correct</label>
+      </p>
+      <h2> You prefer the</h2>
+      <p id="question-4" class="question">
+        <label class="radio"><input type="radio" name="question-4" value="Obi wan" required> Light</label>
+        <label class="radio"><input type="radio" name="question-4" value="Darth Vader"> Dark</label>
+        <label class="radio"><input type="radio" name="question-4" value="Anakin"> No preferance</label>
+      </p>
+
+      <h2> Pick an image</h2>
+      <div class="pictures question">
+        <label class="radio-inline"><input type="radio" name="question-5" value="Obi wan" required><img
+            src="https://www.denofgeek.com/wp-content/uploads/2020/12/the-mandalorian-tython.jpg?resize=768%2C432" /></label>
+        <label class="radio-inline"><input type="radio" name="question-5" value="Darth Vader"><img
+            src="https://pbs.twimg.com/media/EvHiQK7XMAIO3V4?format=jpg&name=900x900" /></label>
+        <label class="radio-inline"><input type="radio" name="question-5" value="Anakin"><img
+            src="https://afar-production.imgix.net/uploads/images/post_images/images/jxx5Lwb2A6/original_Redwoods_Bob_Pool_shutterstock_1434129314.jpg?auto=compress,format&lossless=true&w=845" /></label>
+      </div>
+
+      <div class="done">
+        <button type="submit" id="done">What am I?</button>
+      </div>
+    </div>
+    <div class="feedback gone">
+      <div id="feedback-1" class="gone" data-result="Obi wan">
+        <h3 id="result">Your result is...</h3>
+        You're Obi Wan Kenobi!
+        <img src="https://www.gamerfocus.co/wp-content/uploads/2021/03/ewan-mcgregor-obi-wan-kenobi.jpg" />
+      </div>
+      <div id="feedback-2" class="gone" data-result="Anakin">
+        <h3 id="result">Your result is...</h3>
+        You're Anakin Skywalker!
+        <img src="https://lamenteesmaravillosa.com/wp-content/uploads/2018/03/anakin-skywalker-768x430.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe" />
+      </div>
+      <div id="feedback-3" class="gone" data-result="Darth Vader">
+        <h3 id="result">Your result is...</h3>
+        You're Darth Vader!
+        <img src="https://hipertextual.com/wp-content/uploads/2021/05/dart-vader-1500x973.jpeg" />
+      </div>
+    </div>
+  </form>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+  <script> var current_quiz_name='Squid Game'; </script>
+  <script src="../scripts/results.js" charset="utf-8"></script>
+  <script src="../scripts/firebaseconfig.js" charset="utf-8"></script>
+  <script src="../scripts/firebasedatastore.js" charset="utf-8"></script>
+  <script src="../scripts/main.js" charset="utf-8"></script>
+
+  <!-- <div class="result">
+      <h3 id="result">Your result is...</h3>
+    </div> -->
+  <footer>
+    <h6>SG Shape Quiz created by: [insert names]</h6>
+  </footer>
+</body>
+
+</html>
