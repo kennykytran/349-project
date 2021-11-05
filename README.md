@@ -46,7 +46,7 @@ What is it?
   1. Multiple HTML Files & button navigation across multiple webpages utilizing
   2. A detailed Styling sheet (CSS)
   3. Connection to a FireStore Database
-  4. Hosted on Google Firebase --> `https://personality-quiz-projec.web.app/webpages/snack.html`
+  4. Hosted on Google Firebase --> `https://personality-quiz-projec.web.app/index.html`
   5. A Javascript file for the quiz logic, and another JS file to drive the program logic
   6. Plenty of original Quiz design and content, aided by free web photos and illustrations
 
