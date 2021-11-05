@@ -70,7 +70,6 @@ relatively simple to develop quickly.
 How is the user experience?
 
 -- Click on the following link and try it out! 
-
 ```
 ##### https://personality-quiz-projec.web.app/index.html
 
