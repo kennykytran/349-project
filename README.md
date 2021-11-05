@@ -69,11 +69,11 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
 
   > **Click on the following link and try it out!**
   > 
-  >  - https://personality-quiz-projec.web.app/index.html -
+  >  - https://personality-quiz-projec.web.app/index.html 
   > 
   > **Youtube Video Demo** - check out this 2 min walk through video of the project:
   > 
-  >  - https://youtu.be/nbqCJ0ABFog -
+  >  - https://youtu.be/nbqCJ0ABFog 
 
 
 # Styling the Quiz Central App- Kenny
