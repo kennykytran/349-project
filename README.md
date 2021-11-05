@@ -37,7 +37,7 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 # Introduction - Brian
 
-Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the personality quiz application concept. So, we created Quiz Central. Quiz Central is a Web Application that allows a user to take one of four personality quizzes. It includes quizzes that determine a Snack, Star wars character, Squidgame shape, or Spirit Animal, depending on given input from the user. This input is also recorded in a Firestore database if the user chooses to save the data under a given name. 
+  For the CPSC 349 project, Team Vanilla concluded on developing the personality quiz application concept. So, we created Quiz Central. Quiz Central is a Web Application that allows a user to take one of four personality quizzes. It includes quizzes that determine a Snack, Star wars character, Squidgame shape, or Spirit Animal, depending on given input from the user. This input is also recorded in a Firestore database if the user chooses to save the data under a given name. 
   
   
 ***Features List:***
