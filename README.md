@@ -127,18 +127,13 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
 
 ## Brief demonstration - Kenny
 
--
--
--
 
-
------------------------------------------------------
+#### [Quiz Central](https://personality-quiz-projec.web.app/index.html)
 
 
 # Overall Project Experience - Brian
  
-> At the very start of forming the team, we decided to reference the grading rubric and structure our goals closely to the outlined factors.
-
+- At the very start of forming the team, we decided to reference the grading rubric and structure our goals closely to the outlined factors.
 
 Goals going into the project | Effort | Goal Met? 
 ---------------------------- | ------ | ---------
