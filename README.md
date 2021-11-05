@@ -1,6 +1,6 @@
 ### 349-project
 
-```
+```cpp
 # PROJECT TEAM NAME: Vanilla
 
 # MEMBERS:
@@ -8,6 +8,7 @@
   2. Kevin Espinoza
   3. Brian Lucero
   4. Andres Jaramillo
+```
 
 ```python
                                      +---------------------------------------+
