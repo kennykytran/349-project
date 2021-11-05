@@ -132,7 +132,6 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
 
 
 # Overall Project Experience - Brian
- 
 - At the very start of forming the team, we decided to reference the grading rubric and structure our goals closely to the outlined factors.
 
 Goals going into the project | Effort | Goal Met? 
@@ -144,24 +143,13 @@ Code Quality | Good | Yes
 Innovation & Web Design | Decent | Yes, but maybe still room for improvement
 Teamwork & Effective Team Communication | Good | Yes
 
+## In conclusion:
 
-#### *In the end, we made Quiz Central.* 
+We made a fully functional project, called Quiz Central
 
-- A Web Application that can lighten the mood with some silly quizzes, which also proved to be a useful team collaboration exercise within Front End Engineering.
-
-
-------------------------------------
-
-
-╭━━━╮╱╱╱╱╱╱╱╱╭━━━╮╱╱╱╱╱╭╮╱╱╱╱╱╭╮
-┃╭━╮┃╱╱╱╱╱╱╱╱┃╭━╮┃╱╱╱╱╭╯╰╮╱╱╱╱┃┃
-┃┃╱┃┣╮╭┳┳━━━╮┃┃╱╰╋━━┳━╋╮╭╋━┳━━┫┃
-┃┃╱┃┃┃┃┣╋━━┃┃┃┃╱╭┫┃━┫╭╮┫┃┃╭┫╭╮┃┃
-┃╰━╯┃╰╯┃┃┃━━┫┃╰━╯┃┃━┫┃┃┃╰┫┃┃╭╮┃╰╮
-╰━━╮┣━━┻┻━━━╯╰━━━┻━━┻╯╰┻━┻╯╰╯╰┻━╯
-╱╱╱╰╯///////\///////////\////
-
-
+  - A Web Application that can lighten the mood with some silly quizzes 
+  - Morover, also proved to be a useful team collaboration exercise within Front End Engineering
+  - 
 
 #####  *User Manual* -- *Documentation*
 
@@ -185,3 +173,21 @@ Teamwork & Effective Team Communication | Good | Yes
 - Click on the following URL: [Quiz Central :)](https://personality-quiz-projec.web.app/index.html)
 - After the Home page loads, choose a quiz to play by clicking on it
 - Answer the questions, submit, and await your shocking results
+
+
+-------------------------------------------
+
+
+```python
+                                       +---------------------------------------+
+                                       |                                       |
+                                       |   ┏━━━┓╋╋╋╋╋╋╋╋┏━━━┓╋╋╋╋╋┏┓╋╋╋╋╋┏┓    |
+                                       |   ┃┏━┓┃╋╋╋╋╋╋╋╋┃┏━┓┃╋╋╋╋┏┛┗┓╋╋╋╋┃┃    |
+                                       |   ┃┃╋┃┣┓┏┳┳━━━┓┃┃╋┗╋━━┳━╋┓┏╋━┳━━┫┃    |
+                                       |   ┃┃╋┃┃┃┃┣╋━━┃┃┃┃╋┏┫┃━┫┏┓┫┃┃┏┫┏┓┃┃    |
+                                       |   ┃┗━┛┃┗┛┃┃┃━━┫┃┗━┛┃┃━┫┃┃┃┗┫┃┃┏┓┃┗┓   |
+                                       |   ┗━━┓┣━━┻┻━━━┛┗━━━┻━━┻┛┗┻━┻┛┗┛┗┻━┛   |
+                                       |   ╋╋╋┗┛                               |
+                                       |                                       |
+                                       +---------------------------------------+
+```                                                      
