@@ -161,7 +161,7 @@ We made a fully functional project, called Quiz Central
       - you can either download as a zip file
       - or you can clone the repo as your own 
       
-  U![DEF45AB6-486E-4E9B-9991-F81F805AFED9_4_5005_c](https://user-images.githubusercontent.com/47013770/140559204-cf273dfb-349e-4741-a606-98dc120c959e.jpeg)
+  ![DEF45AB6-486E-4E9B-9991-F81F805AFED9_4_5005_c](https://user-images.githubusercontent.com/47013770/140559204-cf273dfb-349e-4741-a606-98dc120c959e.jpeg)
   
 ## Configuring Quiz Central
 #### `... set-up tips for local instances`
