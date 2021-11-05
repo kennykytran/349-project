@@ -15,14 +15,14 @@ total of 30 points:
 
 ## Contents:
 
- 1. [Introduction & Summary](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#summary)
- 2. [Styling Quiz Central](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#styling-quiz-central---kenny)
+ 1. [Introduction & Summary](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#introduction--summary---brian)
+ 2. [Styling Quiz Central](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#styling-the-quiz-central-app--kenny)
  3. [Engineering the results.js and quiz logic](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#engineering-the-resultsjs-and-quiz-logic---kenny)
- 4. [Connecting Quiz Central to a Firestore Database](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#connecting-quiz-central-to-a-firestore-database---kevin)
+ 4. [Connecting Quiz Central to a Firestore Database](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#connecting-to-a-firestore-database---kevin)
  5. [Hosting the app on Google Firebase](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#hosting-the-app-on-google-firebase---kevin)
- 6. [Designing & Developing the quizzes](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#developing-the-quizzes---brian--andres)
+ 6. [Designing & Developing the quizzes](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#designing--developing-the-quizzes---brian--andres)
  7. [Brief demonstration](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#brief-demonstration---kenny)
- 8. [Overall Project Experience](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#quiz-central---brian)
+ 8. [Overall Project Experience](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#overall-project-experience---brian)
 
 
 ### User Manual -- *Documentation*:
