@@ -31,11 +31,11 @@ total of 30 points:
  - [Using the Application](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#using-quiz-cenrtal)
 
 
-# Summary - Brian
+# Introduction & Summary - Brian
 > <3-5 sentence summary of what it is, who its for, how its made, etc.>
 
 
-## Styling the Quiz Central app- Kenny
+## Styling the Quiz Central App- Kenny
 -
 -
 -
