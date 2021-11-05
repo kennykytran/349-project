@@ -90,15 +90,15 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 # Connecting to a Firestore Database - Kevin
 
--
--
--
+- Set up a Firebase Project for your website. 
+- After creating a new Project, Firebase will give you some code to add to your source code.  
+- Create a database within your new Firebase Project under Firebase Datastore and make sure the code to connect to it is in your source code. Firebase will give you this and go   through the directions for you. From here you should be able to manipulate your Firestore Database remotely from your website. 
 
 # Hosting the app on Google Firebase - Kevin
 
--
--
--
+- First, have a project set up for the website you'd like to host. If you plan to have a database, make sure Firebase Firestore is set up with your local website. 
+- Follow Google's directions for hosting your website on Firebase. 
+- After setting up your environment, simply past your source code into the folder created by Firebase and run firebase publish. From here you'll be given a url for your fully     hosted site. 
 
 # Designing & Developing the Quizzes - Brian & Andres
 
