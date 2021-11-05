@@ -156,15 +156,17 @@ We made a fully functional project, called Quiz Central
 ## Installing Quiz Central *(locally)*
 `Step by step...`
   
-  1.
-  2.
-  3.
+  1. Navigate to URL: https://github.com/ktranfullerton2000/349-project
+  2. Click the `green` button named `code`
+      - you can either download as a zip file
+      - or you can clone the repo as your own 
+      
+  U![DEF45AB6-486E-4E9B-9991-F81F805AFED9_4_5005_c](https://user-images.githubusercontent.com/47013770/140559204-cf273dfb-349e-4741-a606-98dc120c959e.jpeg)
   
 ## Configuring Quiz Central
 #### `... set-up tips for local instances`
--
--
--
+
+- It's recommended to run the project using Live Server in Visual Studio Code
 
 ## Using Quiz Central
 
