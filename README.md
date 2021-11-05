@@ -11,11 +11,10 @@ MEMBERS:
   3. Brian Lucero
   4. Andres Jaramillo
 ```
-Project Host URL: https://personality-quiz-projec.web.app/webpages/snack.html
-
-------------------------------------------
 
 # Quiz Central
+
+Project Host URL: https://personality-quiz-projec.web.app/webpages/snack.html
 
 ## Contents:
 
