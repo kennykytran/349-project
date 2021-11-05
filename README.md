@@ -78,15 +78,15 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 # Styling the Quiz Central App- Kenny
 
--
--
--
+- Each page of the site utilizes the same header and footer classses.
+- The Quiz includes certain css logic that allows for the "Pick an image" questions and the buttons on the top left.
+- The index file also includes certain css logic for the card elements.
 
 # Engineering the results.js and quiz logic - Kenny
 
--
--
--
+- First the results are gathered and is added as indexes to a array called score.
+- Then all of the question results are gathered and the score is added depending on its respective results.
+- Then it finds the result with the highest score and creates the output accordingly, by hiding and revealing certain elements.
 
 # Connecting to a Firestore Database - Kevin
 
