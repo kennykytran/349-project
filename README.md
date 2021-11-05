@@ -18,20 +18,20 @@ total of 30 points:
 3-5 sentence summary of what it is, who its for, how its made, etc.
 
 
-## Installing Quiz Central
+### Installing Quiz Central
   step by step...
   
   1.
   
   2.
   
-## Configuring Quiz Central
+### Configuring Quiz Central
 
 -
 -
 -
 
-## Using Quiz Cenrtal
+### Using Quiz Cenrtal
 
 -
 -
