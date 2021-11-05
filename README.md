@@ -17,23 +17,42 @@ total of 30 points:
 
 3-5 sentence summary of what it is, who its for, how its made, etc.
 
+## Styling Quiz Central - kenny
 
-### Installing Quiz Central
+## Engineering the results.js and quiz logic - kenny
+
+## Connecting Quiz Central to Firestore - Kevin
+
+## Hosting the app on Google Firebase - Kevin
+
+## Developing the quizzes - Brian & Andres
+
+## Brief demonstration - Kenny
+
+## Quiz Central - Brian
+
+------------------------------------
+
+# Documentation:
+ - Installation
+ - Configuration
+ - Using the Application
+
+## Installing Quiz Central
   step by step...
   
   1.
   
   2.
   
-### Configuring Quiz Central
+## Configuring Quiz Central
 
 -
 -
 -
 
-### Using Quiz Cenrtal
+## Using Quiz Cenrtal
 
 -
 -
 -
-
