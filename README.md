@@ -37,7 +37,7 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 # Introduction & Summary - Brian
 
-> What is it?
+***What is it?***
 > -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
   
   
@@ -56,14 +56,14 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 ![0B55AA75-7334-4822-B433-C14647706204_1_105_c](https://user-images.githubusercontent.com/47013770/140525289-4e97ccb6-e45e-4bf7-8d13-a8619dca8f81.jpeg)
 
 
-> Why this idea?
+***Why this Project?***
 > -- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
 > in efforts to finally just decide on *something* to start working on, 
 > and give it our best shot. At the time, it seemed most suitable and 
 > relatively simple to develop quickly.
 
 
-> User experience?
+***User experience?***
 > -- Click on the following link and try it out! 
 > https://personality-quiz-projec.web.app/index.html
 >
