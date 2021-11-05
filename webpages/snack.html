@@ -1,10 +1,9 @@
-<!-- TODO: Delete all commented code that is of no use, Code that is commented is there for reference -->
 
 <!DOCTYPE html>
 <html>
 
 <head>
- X
+
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -32,36 +31,38 @@
   </header>
   <header class="header2">
     <h2>Find out which snack you are</h2>
+
+    <script>  var user_name= ''</script>
+    <input id="user_name" type="text" placeholder="Enter your name to save">
+    <button onclick="user_name = document.getElementById('user_name').value;">Submit</button>
+
   </header>
 
   <form class="main">
     <div class="inner">
-      <h2>Your Favorite color is</h2>
+      <h2>Your favorite time of day is</h2>
       <p id="question-1" class="question">
-        <label class="radio"><input type="radio" name="question-1" value="marshmallow" required> Pink</label>
-        <label class="radio"><input type="radio" name="question-1" value="pretzel"> Golden Brown</label>
-        <label class="radio"><input type="radio" name="question-1" value="ice-cream"> I like all colors</label>
+        <label class="radio"><input type="radio" name="question-1" value="marshmallow" required> Night</label>
+        <label class="radio"><input type="radio" name="question-1" value="pretzel"> Morning</label>
+        <label class="radio"><input type="radio" name="question-1" value="ice-cream"> Noon</label>
       </p>
-      <h2>You like to keep things</h2>
+      <h2>You favorite thing to do in your freetime is</h2>
       <p id="question-2" class="question">
-        <label class="radio"><input type="radio" name="question-2" value="ice-cream" required> Cold and
-          Calculated</label>
-        <label class="radio"><input type="radio" name="question-2" value="pretzel"> Complicated</label>
-        <label class="radio"><input type="radio" name="question-2" value="marshmallow"> Sticky</label>
+        <label class="radio"><input type="radio" name="question-2" value="ice-cream" required> Read </label>
+        <label class="radio"><input type="radio" name="question-2" value="pretzel"> Exercise</label>
+        <label class="radio"><input type="radio" name="question-2" value="marshmallow"> Listen to music</label>
       </p>
-      <h2>Your favorite drink is</h2>
+      <h2>Your favorite genre of movie is</h2>
       <p id="question-3" class="question">
-        <label class="radio"><input type="radio" name="question-3" value="marshmallow" required> Hot Chocolate</label>
-        <label class="radio"><input type="radio" name="question-3" value="ice-cream"> Milkshake</label>
-        <label class="radio"><input type="radio" name="question-3" value="pretzel"> Beer</label>
+        <label class="radio"><input type="radio" name="question-3" value="marshmallow" required> Horror</label>
+        <label class="radio"><input type="radio" name="question-3" value="ice-cream"> Sci-fi</label>
+        <label class="radio"><input type="radio" name="question-3" value="pretzel"> Comedy</label>
       </p>
-      <h2>Your preferable hangout is</h2>
+      <h2>Your preferable place is</h2>
       <p id="question-4" class="question">
-        <label class="radio"><input type="radio" name="question-4" value="marshmallow" required> Camping next to a
-          fire</label>
-        <label class="radio"><input type="radio" name="question-4" value="pretzel"> Grabing a drink at a nice
-          bar</label>
-        <label class="radio"><input type="radio" name="question-4" value="ice-cream"> Going to the beach</label>
+        <label class="radio"><input type="radio" name="question-4" value="marshmallow" required> The wilderness</label>
+        <label class="radio"><input type="radio" name="question-4" value="pretzel"> Indoors</label>
+        <label class="radio"><input type="radio" name="question-4" value="ice-cream"> The beach</label>
       </p>
 
       <h2>Pick an image</h2>
@@ -99,17 +100,14 @@
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"
     integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
+  <script> var current_quiz_name='Snack'; </script>
   <script src="../scripts/results.js" charset="utf-8"></script>
   <script src="../scripts/firebaseconfig.js" charset="utf-8"></script>
   <script src="../scripts/firebasedatastore.js" charset="utf-8"></script>
   <script src="../scripts/main.js" charset="utf-8"></script>
 
-  <!-- <div class="result">
-      <h3 id="result">Your result is...</h3>
-    </div> -->
   <footer>
-    <h6>Quiz Central created by: [INSERT NAMES HERE]</h6>
+    <h6>Quiz Central created by: Kenny Tran, Kevin Espinoza, Brian Lucero, Andres Jaramillo</h6>
   </footer>
 </body>
 
