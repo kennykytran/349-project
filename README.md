@@ -16,11 +16,11 @@ total of 30 points:
 ## Contents:
 
 ### Documentation:
- - ![URL](Installation)"https://github.com/ktranfullerton2000/349-project/blob/main/README.md#installing-quiz-central"
+ - [Installation](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#installing-quiz-central)
 
- - ![URL](Configuration)"https://github.com/ktranfullerton2000/349-project/blob/main/README.md#configuring-quiz-central"
+ - [Configuration](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#configuring-quiz-central)
 
- - ![URL](Using the Application)"https://github.com/ktranfullerton2000/349-project/blob/main/README.md#using-quiz-cenrtal"
+ - [Using the Application](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#using-quiz-cenrtal)
 
 
 ## Summary
