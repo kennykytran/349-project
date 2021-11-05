@@ -74,30 +74,35 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
   https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
 
 
-## Styling the Quiz Central App- Kenny
+# Styling the Quiz Central App- Kenny
+
 -
 -
 -
 
-## Engineering the results.js and quiz logic - Kenny
+# Engineering the results.js and quiz logic - Kenny
+
 -
 -
 -
 
-## Connecting to a Firestore Database - Kevin
+# Connecting to a Firestore Database - Kevin
+
 -
 -
 -
 
-## Hosting the app on Google Firebase - Kevin
+# Hosting the app on Google Firebase - Kevin
+
 -
 -
 -
 
-## Designing & Developing the Quizzes - Brian & Andres
--
--
--
+# Designing & Developing the Quizzes - Brian & Andres
+
+- Initially worked on creating a working quiz template, thus completing the first quiz, snacks.
+- Using the snacks quiz template, we made more content for the rest of the quizzes
+- Each quiz has its own HTML, and they are all linked together in the index.html
 
 #### Gifs of the Quizzes in action:
 
@@ -125,7 +130,7 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 ```
 
-## Brief demonstration - Kenny
+# Brief demonstration - Kenny
 
 
 #### [Quiz Central](https://personality-quiz-projec.web.app/index.html)
@@ -149,7 +154,8 @@ We made a fully functional project, called Quiz Central
 
   - A Web Application that can lighten the mood with some silly quizzes 
   - Morover, also proved to be a useful team collaboration exercise within Front End Engineering
-  - 
+
+-----------------------------------------------------------
 
 #####  *User Manual* -- *Documentation*
 
