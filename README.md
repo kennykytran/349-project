@@ -67,16 +67,14 @@ relatively simple to develop quickly.
 
 
 ```
-How is the user experience?
+User experience?
 
 -- Click on the following link and try it out! 
 ```
-##### https://personality-quiz-projec.web.app/index.html
+> https://personality-quiz-projec.web.app/index.html
 
---------------------------------------------------
 
-![8EB8E02C-2EE4-45FD-A142-5027DDD87541_1_105_c](https://user-images.githubusercontent.com/47013770/140545851-9a766ccc-789e-459f-a11b-089b25cd076e.jpeg)
-
+`OR check out this 2 min walk through video of the project:`
 > https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
 
 
