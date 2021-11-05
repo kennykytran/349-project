@@ -45,7 +45,7 @@ total of 30 points:
 -
 -
 
-## Connecting to a Firestore Database- Kevin
+## Connecting to a Firestore Database - Kevin
 -
 -
 -
