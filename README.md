@@ -3,12 +3,17 @@
 ```cpp
 PROJECT TEAM NAME: Vanilla
 
+PROJECT NAME: Quiz Central
+
 MEMBERS:
   1. Kenny Tran
   2. Kevin Espinoza
   3. Brian Lucero
   4. Andres Jaramillo
 ```
+Project Host URL: https://personality-quiz-projec.web.app/webpages/snack.html
+
+------------------------------------------
 
 ```python
                                        +---------------------------------------+
@@ -46,34 +51,43 @@ MEMBERS:
 
 # Introduction & Summary - Brian
 
+```
+What is it?
 
-#### `What is it?` 
-Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
-
+  - Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+  
+```
 ***Features List:***
+  1. Multiple HTML Files & button navigation across multiple webpages utilizing
+  2. A detailed Styling sheet (CSS)
+  3. Connection to a FireStore Database
+  4. Hosted on Google Firebase --> `https://personality-quiz-projec.web.app/webpages/snack.html`
+  5. A Javascript file for the quiz logic, and another JS file to drive the program logic
+  6. Plenty of original Quiz design and content, aided by free web photos and illustrations
 
 ![91CAA09D-4526-4FF4-98E6-06F11249623D_4_5005_c](https://user-images.githubusercontent.com/47013770/140549957-3a1ec779-9e60-4a13-80db-406eda0bd356.jpeg)
-
-1. Multiple HTML Files & button navigation across multiple webpages utilizing
-2. A detailed Styling sheet (CSS)
-3. Connection to a FireStore Database
-4. Hosted on Google Firebase --> `https://personality-quiz-projec.web.app/webpages/snack.html`
-5. A Javascript file for the quiz logic, and another JS file to drive the program logic
-6. Plenty of original Quiz design and content, aided by free web photos and illustrations
 
 #### View of the Home page
 
 ![0B55AA75-7334-4822-B433-C14647706204_1_105_c](https://user-images.githubusercontent.com/47013770/140525289-4e97ccb6-e45e-4bf7-8d13-a8619dca8f81.jpeg)
 
+```
+Why this idea?
 
-#### `Why this idea?` 
 -- The Quiz Central concept was incepted by Kenny and Kevin mainly, in efforts to finally just decide on *something* to start working on, and give it our best shot. At the time, it seemed most suitable and relatively simple to develop quickly.
 
-#### `How is the user experience?` 
+```
+
+```
+How is the user experience?
+
 -- Click on the following link and try it out! 
+
+```
 ##### https://personality-quiz-projec.web.app/webpages/snack.html
 
-#### `Learn about yourself by filling out the quizzes, and get your results!`
+--------------------------------------------------
+
 ![8EB8E02C-2EE4-45FD-A142-5027DDD87541_1_105_c](https://user-images.githubusercontent.com/47013770/140545851-9a766ccc-789e-459f-a11b-089b25cd076e.jpeg)
 
 > https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
