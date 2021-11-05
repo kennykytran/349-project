@@ -1,17 +1,11 @@
 ### 349-project
 
-```
-Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a
-total of 30 points:
-1) Quality of presentation (including equal participation by all team members)
-2) Quality of documentation for installing, configuring, and using the application
-3) Project scope and functionality
-4) Code quality
-5) Innovation and web design
-6) Teamwork
-```
-
-# Quiz Central
+░██████╗░██╗░░░██╗██╗███████╗  ░█████╗░███████╗███╗░░██╗████████╗██████╗░░█████╗░██╗░░░░░
+██╔═══██╗██║░░░██║██║╚════██║  ██╔══██╗██╔════╝████╗░██║╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░
+██║██╗██║██║░░░██║██║░░███╔═╝  ██║░░╚═╝█████╗░░██╔██╗██║░░░██║░░░██████╔╝███████║██║░░░░░
+╚██████╔╝██║░░░██║██║██╔══╝░░  ██║░░██╗██╔══╝░░██║╚████║░░░██║░░░██╔══██╗██╔══██║██║░░░░░
+░╚═██╔═╝░╚██████╔╝██║███████╗  ╚█████╔╝███████╗██║░╚███║░░░██║░░░██║░░██║██║░░██║███████╗
+░░░╚═╝░░░░╚═════╝░╚═╝╚══════╝  ░╚════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝
 
 ## Contents:
 
@@ -32,7 +26,8 @@ total of 30 points:
 
 
 # Introduction & Summary - Brian
-> <3-5 sentence summary of what it is, who its for, how its made, etc.>
+> `What` -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+>  1. 
 
 
 ## Styling the Quiz Central App- Kenny
@@ -120,3 +115,16 @@ Teamwork & Effective Team Communication | Good | Yes
 -
 -
 -
+
+#### *Grading Rubric Factors:*
+
+```
+Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a
+total of 30 points:
+1) Quality of presentation (including equal participation by all team members)
+2) Quality of documentation for installing, configuring, and using the application
+3) Project scope and functionality
+4) Code quality
+5) Innovation and web design
+6) Teamwork
+```
