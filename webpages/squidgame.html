@@ -1,4 +1,3 @@
-<!-- TODO: Delete all commented code that is of no use, Code that is commented is there for reference -->
 
 <!DOCTYPE html>
 <html>
@@ -16,14 +15,6 @@
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito" />
 </head>
 
-
-<style>
-  body {
-    background-image: url("https://cdn.discordapp.com/attachments/756252963634413679/905942446930788352/F8165A48-8C8E-4912-BA36-A486AEBC66BB_4_5005_c.jpeg");
-  }
-  </style>
-  
-
 <body>
   <div class="fixed">
     <a class="btn btn-primary" href="/index.html" id="reset" role="button">Back to main menu</a>
@@ -39,6 +30,11 @@
   </header>
   <header class="header2">
     <h2>Find out which squid game shape you are (◯, △, ▢)</h2>
+
+    <script>  var user_name= ''</script>
+    <input id="user_name" type="text" placeholder="Enter your name to save">
+    <button onclick="user_name = document.getElementById('user_name').value;">Submit</button>
+
   </header>
 
   <form class="main">
@@ -110,11 +106,8 @@
   <script src="../scripts/firebasedatastore.js" charset="utf-8"></script>
   <script src="../scripts/main.js" charset="utf-8"></script>
 
-  <!-- <div class="result">
-      <h3 id="result">Your result is...</h3>
-    </div> -->
   <footer>
-    <h6>SG Shape Quiz created by: [insert names]</h6>
+    <h6>Quiz Central created by: Kenny Tran, Kevin Espinoza, Brian Lucero, Andres Jaramillo</h6>
   </footer>
 </body>
 
