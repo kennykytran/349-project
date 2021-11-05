@@ -50,6 +50,17 @@ total of 30 points:
 
 ## Quiz Central - Brian
 
+Goals going into the project | Effort | Goal Met?
+---------------------------- | ------ | ---------
+Well-prepared Presentation and equal participation | Good | Yes
+Comprehensive & quality Documentation | Good | Yes
+Project scope functionality - Application of course concepts and technology | Fair | Yes
+Code Quality | Good | Yes
+Innovation & Web Design | Decent | Yes, but maybe still room for improvement
+Teamwork & Effective Team Communication | Good | Yes
+
+ 
+
 ------------------------------------
 
 ## Installing Quiz Central
