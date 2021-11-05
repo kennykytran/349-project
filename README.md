@@ -19,7 +19,7 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 ## Contents:
 
 **Main Project**
- 1. [Introduction & Summary - Brian](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#introduction--summary---brian)
+ 1. [Introduction & Summary - Brian](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#introduction---brian)
  2. [Styling Quiz Central - Kenny](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#styling-the-quiz-central-app--kenny)
  3. [Engineering the results.js and quiz logic - Kenny](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#engineering-the-resultsjs-and-quiz-logic---kenny)
  4. [Connecting Quiz Central to a Firestore Database - Kevin](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#connecting-to-a-firestore-database---kevin)
@@ -35,15 +35,13 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
  - [Using the Application](https://github.com/ktranfullerton2000/349-project/blob/main/README.md#using-quiz-cenrtal)
 
 
-# Introduction & Summary - Brian
+# Introduction - Brian
 
-***What is it?***
-
-  -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the personality quiz application concept. So, we created Quiz Central. Quiz Central is a Web Application that allows a user to take one of four personality quizzes. It includes quizzes that determine a Snack, Star wars character, Squidgame shape, or Spirit Animal, depending on given input from the user. This input is also recorded in a Firestore database if the user chooses to save the data under a given name. 
   
   
 ***Features List:***
-  1. Multiple HTML Files & button navigation across multiple webpages utilizing
+  1. Multiple HTML Files & button navigation across multiple webpages
   2. A detailed Styling sheet (CSS)
   3. Connection to a FireStore Database
   4. Hosted on Google Firebase --> `https://personality-quiz-projec.web.app/index.html`
