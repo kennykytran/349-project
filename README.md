@@ -13,6 +13,16 @@ total of 30 points:
 
 # Quiz Central
 
+## Contents:
+
+### Documentation:
+ - ![URL](Installation)"https://github.com/ktranfullerton2000/349-project/blob/main/README.md#installing-quiz-central"
+
+ - ![URL](Configuration)"https://github.com/ktranfullerton2000/349-project/blob/main/README.md#configuring-quiz-central"
+
+ - ![URL](Using the Application)"https://github.com/ktranfullerton2000/349-project/blob/main/README.md#using-quiz-cenrtal"
+
+
 ## Summary
 
 3-5 sentence summary of what it is, who its for, how its made, etc.
@@ -32,11 +42,6 @@ total of 30 points:
 ## Quiz Central - Brian
 
 ------------------------------------
-
-# Documentation:
- - Installation
- - Configuration
- - Using the Application
 
 ## Installing Quiz Central
   step by step...
