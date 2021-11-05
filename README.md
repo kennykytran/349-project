@@ -36,12 +36,11 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 
 # Introduction & Summary - Brian
-```
-What is it?
 
-  - Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+> What is it?
+> -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
   
-```
+  
 ***Features List:***
   1. Multiple HTML Files & button navigation across multiple webpages utilizing
   2. A detailed Styling sheet (CSS)
@@ -56,25 +55,19 @@ What is it?
 
 ![0B55AA75-7334-4822-B433-C14647706204_1_105_c](https://user-images.githubusercontent.com/47013770/140525289-4e97ccb6-e45e-4bf7-8d13-a8619dca8f81.jpeg)
 
-```
-Why this idea?
 
--- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
-in efforts to finally just decide on *something* to start working on, 
-and give it our best shot. At the time, it seemed most suitable and 
-relatively simple to develop quickly.
-```
+> Why this idea?
+> -- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
+> in efforts to finally just decide on *something* to start working on, 
+> and give it our best shot. At the time, it seemed most suitable and 
+> relatively simple to develop quickly.
 
 
-```
-User experience?
-
--- Click on the following link and try it out! 
-```
+> User experience?
+> -- Click on the following link and try it out! 
 > https://personality-quiz-projec.web.app/index.html
-
-
-`OR check out this 2 min walk through video of the project:`
+>
+> ***OR*** ...check out this 2 min walk through video of the project:
 > https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
 
 
@@ -103,7 +96,7 @@ User experience?
 -
 -
 
-#### `Examples:`
+#### Gifs of the Quizzes in action:
 
 ![F2362583-8C69-456B-BD38-CFA3861D650F](https://user-images.githubusercontent.com/47013770/140545948-37a28597-ba54-44c9-880b-4d3d9435a7d0.gif)
 
