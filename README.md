@@ -69,8 +69,10 @@ total of 30 points:
 
 
 `Learn about yourself by filling out the quizzes, and get your results!`
+![8EB8E02C-2EE4-45FD-A142-5027DDD87541_1_105_c](https://user-images.githubusercontent.com/47013770/140545851-9a766ccc-789e-459f-a11b-089b25cd076e.jpeg)
 
 https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
+
 
 
 
@@ -99,7 +101,18 @@ https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/Sna
 -
 -
 
+#### `Examples:`
+
+![F2362583-8C69-456B-BD38-CFA3861D650F](https://user-images.githubusercontent.com/47013770/140545948-37a28597-ba54-44c9-880b-4d3d9435a7d0.gif)
+
+![8BA32C24-821D-40AF-B501-BD0205232F96_4_5005_c](https://user-images.githubusercontent.com/47013770/140545971-204e68e1-4fbe-4f61-83bf-2673269de27b.jpeg)
+
+![5D22457F-10B7-481C-B56E-745DCAE01A3C](https://user-images.githubusercontent.com/47013770/140545983-51f09727-50f0-4429-8b65-0b426dbf01d2.gif)
+
+![3C29FA2A-8D51-4E42-8721-0214449144E8](https://user-images.githubusercontent.com/47013770/140545994-2744ea99-ce58-48ed-8b22-ba9783bc8957.gif)
+
 ## Brief demonstration - Kenny
+
 -
 -
 -
