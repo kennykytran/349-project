@@ -59,10 +59,10 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 ***Why this Project?***
 
-  -- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
-  in efforts to finally just decide on *something* to start working on, 
-  and give it our best shot. At the time, it seemed most suitable and 
-  relatively simple to develop quickly.
+  > The Quiz Central concept was incepted by Kenny and Kevin mainly, 
+  > in efforts to finally just decide on *something* to start working on, 
+  > and give it our best shot. At the time, it seemed most suitable and 
+  > relatively simple to develop quickly.
 
 
 ***User Experience?***
