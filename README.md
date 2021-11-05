@@ -53,7 +53,23 @@ total of 30 points:
 
 
 # Introduction & Summary - Brian
+
+
 `What` -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+![0B55AA75-7334-4822-B433-C14647706204_1_105_c](https://user-images.githubusercontent.com/47013770/140525289-4e97ccb6-e45e-4bf7-8d13-a8619dca8f81.jpeg)
+
+
+`Why?` -- The Quiz Central concept was incepted by Kenny and Kevin mainly, in efforts to finally just decide on *something* to start working on, and give it our best shot. At the time, it seemed most suitable and relatively simple to develop quickly.
+
+`How?` -- Click on the following link and try it out! 
+
+> https://personality-quiz-projec.web.app/webpages/snack.html
+
+
+#### `Learn about yourself by filling out the quizzes, and get your results!`
+
+https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
+
 
 
 ## Styling the Quiz Central App- Kenny
