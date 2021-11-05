@@ -57,16 +57,37 @@ total of 30 points:
 
 `What is it?` -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
 
+```python
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
+
 ![0B55AA75-7334-4822-B433-C14647706204_1_105_c](https://user-images.githubusercontent.com/47013770/140525289-4e97ccb6-e45e-4bf7-8d13-a8619dca8f81.jpeg)
 
+```python
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 `Why this idea?` -- The Quiz Central concept was incepted by Kenny and Kevin mainly, in efforts to finally just decide on *something* to start working on, and give it our best shot. At the time, it seemed most suitable and relatively simple to develop quickly.
 
+```python
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 `How is the user experience?` -- Click on the following link and try it out! 
 
 #### https://personality-quiz-projec.web.app/webpages/snack.html
 
+```python
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 `Learn about yourself by filling out the quizzes, and get your results!`
 ![8EB8E02C-2EE4-45FD-A142-5027DDD87541_1_105_c](https://user-images.githubusercontent.com/47013770/140545851-9a766ccc-789e-459f-a11b-089b25cd076e.jpeg)
@@ -74,7 +95,11 @@ total of 30 points:
 https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
 
 
-
+```python
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 ## Styling the Quiz Central App- Kenny
 -
@@ -105,7 +130,7 @@ https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/Sna
 
 ![F2362583-8C69-456B-BD38-CFA3861D650F](https://user-images.githubusercontent.com/47013770/140545948-37a28597-ba54-44c9-880b-4d3d9435a7d0.gif)
 
-![8BA32C24-821D-40AF-B501-BD0205232F96_4_5005_c](https://user-images.githubusercontent.com/47013770/140545971-204e68e1-4fbe-4f61-83bf-2673269de27b.jpeg)
+![darth](https://user-images.githubusercontent.com/47013770/140548194-ac499826-ed34-49f3-a4bd-6ad102874130.gif)
 
 ![5D22457F-10B7-481C-B56E-745DCAE01A3C](https://user-images.githubusercontent.com/47013770/140545983-51f09727-50f0-4429-8b65-0b426dbf01d2.gif)
 
