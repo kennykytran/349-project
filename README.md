@@ -13,7 +13,9 @@ total of 30 points:
 
 ## Installing Quiz Central
   step by step...
+  
   1.
+  
   2.
   
 ## Configuring Quiz Central
