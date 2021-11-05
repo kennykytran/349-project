@@ -14,7 +14,7 @@ MEMBERS:
 
 # Quiz Central
 
-Project Host URL: https://personality-quiz-projec.web.app/webpages/snack.html
+Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 ## Contents:
 
@@ -69,7 +69,7 @@ How is the user experience?
 -- Click on the following link and try it out! 
 
 ```
-##### https://personality-quiz-projec.web.app/webpages/snack.html
+##### https://personality-quiz-projec.web.app/index.html
 
 --------------------------------------------------
 
