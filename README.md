@@ -1,21 +1,13 @@
 ### 349-project
 
-#### *Grading Rubric Factors:*
-
 ```
-Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a
-total of 30 points:
-1) Quality of presentation (including equal participation by all team members)
-2) Quality of documentation for installing, configuring, and using the application
-3) Project scope and functionality
-4) Code quality
-5) Innovation and web design
-6) Teamwork
-```
+# PROJECT TEAM NAME: Vanilla
 
----------------------------------------
-
-
+# MEMBERS:
+  1. Kenny Tran
+  2. Kevin Espinoza
+  3. Brian Lucero
+  4. Andres Jaramillo
 
 ```python
                                      +---------------------------------------+
@@ -29,8 +21,7 @@ total of 30 points:
                                      |   ╋╋╋┗┛                               |
                                      |                                       |
                                      +---------------------------------------+
-```
-                                                         
+```                                                      
                                                          
 # QUIZ CENTRAL                                                    
 
@@ -55,49 +46,37 @@ total of 30 points:
 # Introduction & Summary - Brian
 
 
-`What is it?` -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+#### `What is it?` 
+Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
 
-```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
+***Features List:***
+
+![91CAA09D-4526-4FF4-98E6-06F11249623D_4_5005_c](https://user-images.githubusercontent.com/47013770/140549957-3a1ec779-9e60-4a13-80db-406eda0bd356.jpeg)
+
+1. Multiple HTML Files & button navigation across multiple webpages utilizing
+2. A detailed Styling sheet (CSS)
+3. Connection to a FireStore Database
+4. Hosted on Google Firebase --> `https://personality-quiz-projec.web.app/webpages/snack.html`
+5. A Javascript file for the quiz logic, and another JS file to drive the program logic
+6. Plenty of original Quiz design and content, aided by free web photos and illustrations
+
+#### View of the Home page
 
 ![0B55AA75-7334-4822-B433-C14647706204_1_105_c](https://user-images.githubusercontent.com/47013770/140525289-4e97ccb6-e45e-4bf7-8d13-a8619dca8f81.jpeg)
 
-```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
 
-`Why this idea?` -- The Quiz Central concept was incepted by Kenny and Kevin mainly, in efforts to finally just decide on *something* to start working on, and give it our best shot. At the time, it seemed most suitable and relatively simple to develop quickly.
+#### `Why this idea?` 
+-- The Quiz Central concept was incepted by Kenny and Kevin mainly, in efforts to finally just decide on *something* to start working on, and give it our best shot. At the time, it seemed most suitable and relatively simple to develop quickly.
 
-```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
+#### `How is the user experience?` 
+-- Click on the following link and try it out! 
+##### https://personality-quiz-projec.web.app/webpages/snack.html
 
-`How is the user experience?` -- Click on the following link and try it out! 
-
-#### https://personality-quiz-projec.web.app/webpages/snack.html
-
-```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
-
-`Learn about yourself by filling out the quizzes, and get your results!`
+#### `Learn about yourself by filling out the quizzes, and get your results!`
 ![8EB8E02C-2EE4-45FD-A142-5027DDD87541_1_105_c](https://user-images.githubusercontent.com/47013770/140545851-9a766ccc-789e-459f-a11b-089b25cd076e.jpeg)
 
-https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
+> https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
 
-
-```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-```
 
 ## Styling the Quiz Central App- Kenny
 -
@@ -129,33 +108,25 @@ https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/Sna
 ![F2362583-8C69-456B-BD38-CFA3861D650F](https://user-images.githubusercontent.com/47013770/140545948-37a28597-ba54-44c9-880b-4d3d9435a7d0.gif)
 
 ```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 ```
 
 ![darth](https://user-images.githubusercontent.com/47013770/140548194-ac499826-ed34-49f3-a4bd-6ad102874130.gif)
 
 ```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 ```
 
 ![5D22457F-10B7-481C-B56E-745DCAE01A3C](https://user-images.githubusercontent.com/47013770/140545983-51f09727-50f0-4429-8b65-0b426dbf01d2.gif)
 
 ```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 ```
 
 ![3C29FA2A-8D51-4E42-8721-0214449144E8](https://user-images.githubusercontent.com/47013770/140545994-2744ea99-ce58-48ed-8b22-ba9783bc8957.gif)
 
 ```python
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % 
 ```
 
 ## Brief demonstration - Kenny
