@@ -38,7 +38,8 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 # Introduction & Summary - Brian
 
 ***What is it?***
-> -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
+
+  -- Quiz Central is a Web Application that allows a user to take one of four personality quizzes. 
   
   
 ***Features List:***
@@ -49,7 +50,9 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
   5. A Javascript file for the quiz logic, and another JS file to drive the program logic
   6. Plenty of original Quiz design and content, aided by free web photos and illustrations
 
+
 ![91CAA09D-4526-4FF4-98E6-06F11249623D_4_5005_c](https://user-images.githubusercontent.com/47013770/140549957-3a1ec779-9e60-4a13-80db-406eda0bd356.jpeg)
+
 
 #### View of the Home page
 
@@ -57,18 +60,20 @@ Project Host URL: https://personality-quiz-projec.web.app/index.html
 
 
 ***Why this Project?***
-> -- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
-> in efforts to finally just decide on *something* to start working on, 
-> and give it our best shot. At the time, it seemed most suitable and 
-> relatively simple to develop quickly.
+
+  -- The Quiz Central concept was incepted by Kenny and Kevin mainly, 
+  in efforts to finally just decide on *something* to start working on, 
+  and give it our best shot. At the time, it seemed most suitable and 
+  relatively simple to develop quickly.
 
 
-***User experience?***
-> -- Click on the following link and try it out! 
-> https://personality-quiz-projec.web.app/index.html
->
-> ***OR*** ...check out this 2 min walk through video of the project:
-> https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
+***User Experience?***
+
+  -- Click on the following link and try it out! 
+  https://personality-quiz-projec.web.app/index.html
+
+  ***OR*** ...check out this 2 min walk through video of the project:
+  https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
 
 
 ## Styling the Quiz Central App- Kenny
