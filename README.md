@@ -70,8 +70,8 @@ Introduction: For the CPSC 349 project, Team Vanilla concluded on developing the
   -- Click on the following link and try it out! 
   https://personality-quiz-projec.web.app/index.html
 
-  ***OR*** ...check out this 2 min walk through video of the project:
-  https://cdn.discordapp.com/attachments/894621741228380221/906186121225052190/SnackQuizMovie.mp4
+  -- Youtube Video Demo - check out this 2 min walk through video of the project:
+  https://youtu.be/nbqCJ0ABFog
 
 
 # Styling the Quiz Central App- Kenny
