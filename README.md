@@ -1,4 +1,4 @@
-# 349-project
+### 349-project
 
 ```
 Grading Each of the following factors contributes up to 3 points to the final grade for the project, for a
@@ -10,6 +10,13 @@ total of 30 points:
 5) Innovation and web design
 6) Teamwork
 ```
+
+# Quiz Central
+
+## Summary
+
+3-5 sentence summary of what it is, who its for, how its made, etc.
+
 
 ## Installing Quiz Central
   step by step...
