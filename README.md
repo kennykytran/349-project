@@ -15,7 +15,7 @@ total of 30 points:
 
 ## Contents:
 
- 1. Summary
+ 1. Summary - Brian
  2. Styling Quiz Central - kenny
  3. Engineering the results.js and quiz logic - kenny
  4. Connecting Quiz Central to Firestore - Kevin
