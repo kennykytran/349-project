@@ -24,7 +24,7 @@ total of 30 points:
 
 ## Using Quiz Cenrtal
 
-=
 -
-=
+-
+-
 
